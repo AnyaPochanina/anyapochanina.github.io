@@ -473,10 +473,6 @@ body {
     height: 100%;
   }
 
-  .shade-left {
-    width: 66%;
-  }
-
   .text-zone {
     top: clamp(94px, 27svh, 126px);
     left: 30px;
